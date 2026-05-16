@@ -1,18 +1,16 @@
 # 🎙️ Gacha Mod Voice
 
-Этот проект создаёт русскую озвучку персонажей с помощью нейросетей для gacha-игр.
-
-Цель — сделать качественную локализацию, которая:
-- звучит естественно
-- передаёт эмоции
-- сохраняет атмосферу оригинала
+Нейросетевая озвучка для гача игр
+[__✨Boosty✨__](https://boosty.to/kramar1337)
+[__✨Telegram✨__](https://t.me/GachaModVoice)
+[__✨YouTube✨__](https://www.youtube.com/@Kranulingus1337)
 
 ---
 
 ## 🎮 Запланированные игры
 
-- [x] Arknights: Endfield (~90%)
-- [ ] NTE
+- [x] Arknights: Endfield
+- [ ] Neverness to Everness
 - [ ] Honkai: Star Rail
 - [ ] Genshin Impact
 - [ ] Ananta
@@ -23,19 +21,18 @@
 📺 Видео: Добавлю позже*
 
 
-## ✨ Особенности
+## ✨ Запланированные особенности
 
 - 🗣️ Правильные ударения
 - 🎭 Эмоциональная речь
-- 🎧 Постобработка*
-
-
-## 🛠️ Обратная связь
-
-- 🧩 Fork + Pull Request для предложений  
-- 🐛 Issues для багов  
-- 💡 Идеи приветствуются  
+- 🎧 Постобработка
+- 🥨 Липсинк
 
 ---
+## Disclaimer 
+This project is intended solely for educational purposes. 
 
-Сгенерировано с помощью ChatGPT (° ͜ʖ͡°)╭∩╮
+## License
+
+This project is licensed under the Apache-2.0 license. For more information, see the [LICENSE] file.
+
