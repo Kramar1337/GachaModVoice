@@ -6,6 +6,8 @@
 [__✨Telegram✨__](https://t.me/GachaModVoice)
 [__✨YouTube✨__](https://www.youtube.com/@Kranulingus1337)
 
+Лаунчер в разработке*
+![123](https://i.ibb.co.com/chFwwVQ1/123dasda.jpg)
 ## 🎮 Запланированные игры
 
 - [x] Arknights: Endfield
