@@ -15,9 +15,11 @@
 - [x] Neverness to Everness
 - [ ] Honkai: Star Rail
 - [ ] Genshin Impact
+- [ ] Wuthering Waves
 - [ ] Ananta
 - [ ] Varsapura
 - [ ] Wang Yue
+
 
 
 ## 🎬 Демо
