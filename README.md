@@ -12,7 +12,7 @@
 ## 🎮 Запланированные игры
 
 - [x] Arknights: Endfield
-- [ ] Neverness to Everness
+- [x] Neverness to Everness
 - [ ] Honkai: Star Rail
 - [ ] Genshin Impact
 - [ ] Ananta
@@ -28,7 +28,6 @@
 - 🗣️ Правильные ударения
 - 🎭 Эмоциональная речь
 - 🎧 Постобработка
-- 🥨 Липсинк
 
 ---
 ## Disclaimer 
