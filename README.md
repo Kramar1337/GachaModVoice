@@ -16,6 +16,8 @@
 - [ ] Honkai: Star Rail
 - [ ] Genshin Impact
 - [ ] Ananta
+- [ ] Varsapura
+- [ ] Wang Yue
 
 
 ## 🎬 Демо
