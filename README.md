@@ -8,6 +8,43 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 [__✨Telegram✨__](https://t.me/GachaModVoice)
 [__✨YouTube✨__](https://www.youtube.com/@Kranulingus1337)
 
+<details>
+<summary><b>🎙️ Как получить русификатор</b></summary>
+
+### 1️⃣ Получите доступ
+
+- Авторизуйтесь на Boosty.
+- [Привязать Telegram к Boosty](https://boosty.to/app/settings/external-apps)
+- [Оформить подписку](https://boosty.to/kramar1337)
+
+### 2️⃣ Активируйте подписку
+
+- Откройте [официального бота Boosty.](https://t.me/boosty_to_bot)
+- Нажмите **«Доступные группы»**.
+- Вступите в группу **Launcher Subs Tech**.
+
+⚠️ Не выходите из группы, она используется для проверки доступа.
+
+### 3️⃣ Скачайте лаунчер
+
+- [Репозиторий](https://github.com/Kramar1337/GachaModVoice/releases)
+
+Лаунчер не имеет цифровой подписи и использует защиту Themida, по этому если браузер или антивирус будут ругаться на файл - разрешите запуск вручную. 
+
+### 4️⃣ Запуск
+
+- Распакуйте архив в отдельную папку.
+- Запустите лаунчер.
+- Авторизуйтесь через бота в Telegram.
+- Выберите игру и нажмите **«Начать»**.
+
+### 💬 Нужна помощь?
+
+Telegram проекта:
+https://t.me/GachaModVoice
+
+</details>
+
 ![123](https://i.ibb.co.com/LdHm5JgG/123dasda.jpg)
 
 ## 🎮 Статус разработки
