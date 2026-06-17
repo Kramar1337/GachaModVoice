@@ -42,8 +42,8 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 
 ### 💬 Нужна помощь?
 
-Telegram проекта:
-https://t.me/GachaModVoice
+[Чат в Telegram](https://t.me/GachaModVoiceChat)
+
 
 </details>
 
