@@ -29,7 +29,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 
 ### 3️⃣ Скачайте лаунчер
 
-- [Репозиторий](https://github.com/Kramar1337/GachaModVoice/releases)
+- [GachaModVoice.zip](https://github.com/Kramar1337/GachaModVoice/releases)
 
 Лаунчер не имеет цифровой подписи и использует защиту Themida, по этому если браузер или антивирус будут ругаться на файл - разрешите запуск вручную
 
