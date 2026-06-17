@@ -17,7 +17,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 
 - Авторизуйтесь на Boosty.
 - [Привязать Telegram к Boosty](https://boosty.to/app/settings/external-apps)
-- [Оформить подписку](https://boosty.to/kramar1337)
+- [Оформить подписку](https://boosty.to/kramar1337/purchase/1871141?ssource=DIRECT&share=subscription_link)
 
 ### 2️⃣ Активируйте подписку
 
