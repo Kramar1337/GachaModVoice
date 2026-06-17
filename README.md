@@ -64,7 +64,7 @@ https://t.me/GachaModVoice
 
 ## 🎬 Демонстрация
 
-📺 Arknights: Endfield: [YouTube](https://youtu.be/i5fQupyBqkA)
+📺 [Arknights: Endfield](https://youtu.be/i5fQupyBqkA)
 
 
 ## ✨ Запланировано
