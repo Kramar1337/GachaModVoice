@@ -61,9 +61,9 @@ https://t.me/GachaModVoice
 | Wang Yue | 🔜 После релиза игры |
 
 
-## 🎬 Демо
+## 🎬 Демонстрация
 
-📺 Видео: [YouTube](https://youtu.be/i5fQupyBqkA)
+📺 Arknights: Endfield: [YouTube](https://youtu.be/i5fQupyBqkA)
 
 
 ## ✨ Запланировано
