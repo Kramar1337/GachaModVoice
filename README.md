@@ -65,8 +65,9 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 
 ## 🎬 Демонстрация
 
-📺 [Arknights: Endfield](https://youtu.be/i5fQupyBqkA)
+📺 [Arknights: Endfield](https://www.youtube.com/watch?v=i5fQupyBqkA)
 
+📺 [Neverness to Everness](https://www.youtube.com/watch?v=6370OZpr8lQ)
 
 ## ✨ Запланировано
 
