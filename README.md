@@ -56,7 +56,9 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 | Neverness to Everness | ✅ Готово |
 | Honkai: Star Rail | 📅 Запланировано |
 | Genshin Impact | 📅 Запланировано |
-| Wuthering Waves | ⏳ Ожидание офиц локализации |
+| Zenless Zone Zero | 📅 Запланировано |
+| Wuthering Waves | ⏳ жду РУ локализацию |
+| Silver Palace | [🔜 После релиза игры](https://www.youtube.com/@SilverPalace-Official/videos) |
 | Ananta | [🔜 После релиза игры](https://www.youtube.com/@Ananta_Game/videos) |
 | Varsapura | [🔜 После релиза игры](https://www.youtube.com/@Varsapura) |
 | Wang Yue | [🔜 После релиза игры](https://www.youtube.com/results?search_query=Wang+Yue) |
