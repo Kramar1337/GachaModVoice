@@ -53,24 +53,17 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 
 | Игра | Статус |
 |--------|--------|
-| Arknights: Endfield | ✅ Готово |
-| Neverness to Everness | ✅ Готово |
-| Honkai: Star Rail | 📅 Запланировано |
+| Arknights: Endfield | ✅ [Готово](https://www.youtube.com/watch?v=i5fQupyBqkA) |
+| Neverness to Everness | ✅ [Готово](https://www.youtube.com/watch?v=6370OZpr8lQ) |
+| Honkai: Star Rail | ⏳ В разработке |
 | Genshin Impact | 📅 Запланировано |
 | Zenless Zone Zero | 📅 Запланировано |
 | Wuthering Waves | ⏳ жду РУ локализацию |
-| Silver Palace | 🔜 [После релиза игры](https://www.youtube.com/@SilverPalace-Official/videos) |
-| Ananta | 🔜 [После релиза игры](https://www.youtube.com/@Ananta_Game/videos) |
-| Varsapura | 🔜 [После релиза игры](https://www.youtube.com/@Varsapura) |
-| Wang Yue | 🔜 [После релиза игры](https://www.youtube.com/results?search_query=Wang+Yue) |
+| Silver Palace | 🔜 [Жду релиз](https://www.youtube.com/@SilverPalace-Official/videos) |
+| Ananta | 🔜 [Жду релиз](https://www.youtube.com/@Ananta_Game/videos) |
+| Varsapura | 🔜 [Жду релиз](https://www.youtube.com/@Varsapura) |
+| Wang Yue | 🔜 [Жду релиз](https://www.youtube.com/results?search_query=Wang+Yue) |
 
-
-
-## 🎬 Демонстрация
-
-📺 [Arknights: Endfield](https://www.youtube.com/watch?v=i5fQupyBqkA)
-
-📺 [Neverness to Everness](https://www.youtube.com/watch?v=6370OZpr8lQ)
 
 ## ✨ Запланировано
 
