@@ -5,7 +5,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 Озвучка создаётся с использованием технологий синтеза речи и дополнительной обработки звука.
 
 [__✨Boosty✨__](https://boosty.to/kramar1337)
-[__✨Telegram✨__](https://t.me/GachaModVoice)
+[__✨Telegram✨__](https://telegram.me/GachaModVoice)
 [__✨YouTube✨__](https://www.youtube.com/@Kranulingus1337)
 
 <details>
@@ -21,7 +21,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 
 ### 2️⃣ Активируйте подписку
 
-- Откройте [официального бота Boosty.](https://t.me/boosty_to_bot)
+- Откройте [официального бота Boosty.](https://telegram.me/boosty_to_bot)
 - Нажмите **«Доступные группы»**
 - Вступите в группу **Launcher Subs Tech**
 
@@ -42,9 +42,9 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 
 ### 💬 Нужна помощь?
 
-- [Telegram Чат](https://t.me/GachaModVoiceChat)
+- [Telegram Чат](https://telegram.me/GachaModVoiceChat)
 
-- [Telegram Канал](https://t.me/GachaModVoice)
+- [Telegram Канал](https://telegram.me/GachaModVoice)
 
 </details>
 
