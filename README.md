@@ -49,7 +49,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 </details>
 
 <details>
-<summary><h2>🔒 Безопасность русификатора &nbsp;<sub>(кликни тут)</sub></h2></summary>
+<summary><b>🔒 Безопасность русификатора (кликни тут)</b></summary>
 
 <br>
 
