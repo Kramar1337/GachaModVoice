@@ -9,7 +9,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 [__✨YouTube✨__](https://www.youtube.com/@Kranulingus1337)
 
 <details>
-<summary><b>Как получить русификатор(кликни тут)</b></summary>
+<summary><b>Как получить русификатор (кликни тут)</b></summary>
 
 [![123](https://i.ibb.co.com/LdHm5JgG/123dasda.jpg)](https://github.com/Kramar1337/GachaModVoice/releases)
 
@@ -49,7 +49,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 </details>
 
 <details>
-<summary><b>🔒 Безопасность русификатора (кликни тут)</b></summary>
+<summary><b> Безопасность русификатора (кликни тут)</b></summary>
 
 <br>
 
