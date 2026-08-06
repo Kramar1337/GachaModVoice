@@ -99,7 +99,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 
 | Игра |
 |------|
-| NTE |
+| Neverness to Everness |
 | Silver Palace |
 | Wuthering Waves |
 
