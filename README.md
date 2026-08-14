@@ -11,7 +11,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 <details>
 <summary><b>Как получить русификатор? (кликни тут)</b></summary>
 
-[![123](https://i.ibb.co/FqD880k9/24-1.jpg)](https://github.com/Kramar1337/GachaModVoice/releases)
+<img src="https://i.ibb.co/FqD880k9/24-1.jpg" alt="123" width="480" height="270">
 
 ### 1️⃣ Получите доступ
 
