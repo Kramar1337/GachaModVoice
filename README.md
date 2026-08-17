@@ -8,7 +8,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 [__✨Telegram✨__](https://telegram.me/GachaModVoice)
 [__✨YouTube✨__](https://www.youtube.com/@Kranulingus1337)
 
-👇 Нажмите на любой вопрос, чтобы раскрыть ответ
+👇 Нажмите, чтобы раскрыть
 
 <details>
 <summary><b>Как получить русификатор?</b></summary>
