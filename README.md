@@ -8,7 +8,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 [__✨Telegram✨__](https://telegram.me/GachaModVoice)
 [__✨YouTube✨__](https://www.youtube.com/@Kranulingus1337)
 
-👇 Нажмите, чтобы раскрыть
+👇 Нажми, чтобы раскрыть
 
 <details>
 <summary><b>Как получить русификатор?</b></summary>
@@ -20,8 +20,8 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 ### 1️⃣ Получите доступ
 
 - [Авторизуйтесь на Boosty](https://boosty.to)
-- [Привязать Telegram к Boosty](https://boosty.to/app/settings/external-apps)
-- [Оформить подписку](https://boosty.to/kramar1337/purchase/1871141?ssource=DIRECT&share=subscription_link)
+- [Привяжите Telegram к Boosty](https://boosty.to/app/settings/external-apps)
+- [Оформите подписку](https://boosty.to/kramar1337/purchase/1871141?ssource=DIRECT&share=subscription_link)
 
 ### 2️⃣ Активируйте подписку
 
@@ -33,7 +33,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 
 ### 3️⃣ Скачайте установщик
 
-- В вкладке релизы файл: [GachaModVoiceInstaller](https://github.com/Kramar1337/GachaModVoice/releases)
+- Во вкладке релизы: [GachaModVoiceInstaller](https://github.com/Kramar1337/GachaModVoice/releases)
 
 Лаунчер и установщик не имеет цифровой подписи и использует защиту Themida, по этому если браузер или антивирус будут ругаться на файл - разрешите запуск вручную
 
