@@ -270,11 +270,11 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 </details>
 
 <details>
-<summary><b>Настройки и решение проблем по играм</b></summary>
+<summary><b>Настройки и решение проблем с играми</b></summary>
 
-- [Arknights: Endfield](docs/endfield.md)
-- [Genshin Impact](docs/genshin.md)
-- [Neverness to Everness](docs/nte.md)
+
+- [Wiki](https://github.com/Kramar1337/GachaModVoice/wiki)
+
 
 </details>
 
