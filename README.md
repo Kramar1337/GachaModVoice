@@ -51,6 +51,8 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 
 - [Telegram Канал](https://telegram.me/GachaModVoice)
 
+- [Wiki](https://github.com/Kramar1337/GachaModVoice/wiki)
+
 </details>
 
 <details>
@@ -278,13 +280,15 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 
 ## 🎮 Статус разработки
 
+*Aктуальный статус в закрепленном посте в [Telegram](https://telegram.me/GachaModVoice)
+
 | Игра | Статус |
 |--------|--------|
 | Genshin Impact | ✅ [Готово](https://www.youtube.com/watch?v=2fbrGOjHxRE) |
 | Neverness to Everness | ✅ [Готово](https://www.youtube.com/watch?v=6370OZpr8lQ) |
 | Arknights: Endfield | ✅ [Готово](https://www.youtube.com/watch?v=i5fQupyBqkA) |
-| Honkai: Star Rail | ⏳ В разработке |
-| Zenless Zone Zero | 📅 Запланировано |
+| Honkai: Star Rail | ✅ Готово |
+| Zenless Zone Zero | ⏳ В разработке |
 | Wuthering Waves | ⏳ В 2027 |
 | Silver Palace | 🔜 [Жду релиз](https://www.youtube.com/@SilverPalace-Official/videos) |
 | Ananta | 🔜 [Жду релиз](https://www.youtube.com/@Ananta_Game/videos) |
