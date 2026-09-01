@@ -290,10 +290,10 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 | Honkai: Star Rail | ✅ Готово |
 | Zenless Zone Zero | ⏳ В разработке |
 | Wuthering Waves | ⏳ В разработке |
-| Silver Palace | 🔜 [Жду релиз](https://www.youtube.com/@SilverPalace-Official/videos) |
-| Ananta | 🔜 [Жду релиз](https://www.youtube.com/@Ananta_Game/videos) |
-| Varsapura | 🔜 [Жду релиз](https://www.youtube.com/@Varsapura) |
-| Wang Yue | 🔜 [Жду релиз](https://www.youtube.com/results?search_query=Wang+Yue) |
+| Ananta | 🔜 [15 января 2027](https://www.youtube.com/@Ananta_Game/videos) |
+| Silver Palace | 🔜 [Ждём 2027](https://www.youtube.com/@SilverPalace-Official/videos) |
+| Wang Yue | 🔜 [Ждём 2027](https://www.youtube.com/results?search_query=Wang+Yue) |
+| Varsapura | 🔜 [Ждём 2027](https://www.youtube.com/@Varsapura) |
 
 ---
 ## Disclaimer
