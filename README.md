@@ -289,7 +289,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 | Arknights: Endfield | ✅ [Готово](https://www.youtube.com/watch?v=i5fQupyBqkA) |
 | Honkai: Star Rail | ✅ Готово |
 | Zenless Zone Zero | ⏳ В разработке |
-| Wuthering Waves | ⏳ В 2027 |
+| Wuthering Waves | ⏳ В разработке |
 | Silver Palace | 🔜 [Жду релиз](https://www.youtube.com/@SilverPalace-Official/videos) |
 | Ananta | 🔜 [Жду релиз](https://www.youtube.com/@Ananta_Game/videos) |
 | Varsapura | 🔜 [Жду релиз](https://www.youtube.com/@Varsapura) |
