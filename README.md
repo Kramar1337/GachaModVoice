@@ -5,7 +5,7 @@ Gacha Mod Voice - проект по созданию нейросетевой р
 Озвучка создаётся с использованием технологий синтеза речи и дополнительной обработки звука.
 
 <a href="https://github.com/Kramar1337/GachaModVoice/releases">
-  <img src="https://i.ibb.co/R4MgKHzs/12-Screenshot-2.jpg" alt="123" width="480" height="270">
+  <img src="https://i.ibb.co/R4Vvt0PG/23-2312312.jpg" alt="123" width="480" height="270">
 </a>
 
 [__✨Boosty✨__](https://boosty.to/kramar1337)
