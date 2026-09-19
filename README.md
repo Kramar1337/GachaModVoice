@@ -278,6 +278,21 @@
 | Varsapura | 🔜 [Ждём 2027](https://www.youtube.com/@Varsapura) |
 
 ---
+<details>
+<summary>🔍 Теги для поиска</summary>
+
+Genshin Impact, Геншин Импакт, геншин, русская озвучка Genshin
+Honkai Star Rail, Стар Рейл, хонкай стар рейл, русская озвучка Star Rail
+Zenless Zone Zero, ZZZ, зет зет зет, зенлесс зон зиро, русская озвучка ZZZ
+Arknights Endfield, Аркнайтс Эндфилд, эндфилд, русская озвучка Endfield
+Neverness to Everness, NTE, неверлесс, русская озвучка NTE
+Wuthering Waves, Вузеринг Вейвс, вува, русская озвучка Wuthering Waves
+Ananta, Silver Palace, Wang Yue, Varsapura
+
+русификатор, русская озвучка, нейросетевая озвучка, дубляж, AI voice mod, гача игры, gacha games
+
+</details>
+---
 ## Disclaimer
 
 This is an unofficial fan-made project.
