@@ -278,6 +278,7 @@
 | Varsapura | 🔜 [Ждём 2027](https://www.youtube.com/@Varsapura) |
 
 ---
+
 <details>
 <summary>🔍 Теги для поиска</summary>
 
@@ -292,6 +293,7 @@ Ananta, Silver Palace, Wang Yue, Varsapura
 русификатор, русская озвучка, нейросетевая озвучка, дубляж, AI voice mod, гача игры, gacha games
 
 </details>
+
 ---
 
 ## Disclaimer
