@@ -278,7 +278,7 @@
 | Varsapura | 🔜 [Ждём 2027](https://www.youtube.com/@Varsapura) |
 
 <details>
-<summary>🔍 Теги для поиска</summary>
+<summary>Теги для поиска</summary>
 
 Genshin Impact, Геншин Импакт, геншин, русская озвучка Genshin
 Honkai Star Rail, Стар Рейл, хонкай стар рейл, русская озвучка Star Rail
