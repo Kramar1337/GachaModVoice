@@ -277,8 +277,6 @@
 | Wang Yue | 🔜 [Ждём 2027](https://www.youtube.com/results?search_query=Wang+Yue) |
 | Varsapura | 🔜 [Ждём 2027](https://www.youtube.com/@Varsapura) |
 
----
-
 <details>
 <summary>🔍 Теги для поиска</summary>
 
