@@ -1,4 +1,4 @@
-# 🎙️ GachaModVoice — русская озвучка для гача-игр
+# 🎙️ Gacha Mod Voice — русская озвучка для гача-игр
 
 Русификатор с нейросетевой озвучкой (AI voice mod) для Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, Arknights: Endfield и Neverness to Everness.
 
@@ -282,11 +282,11 @@
 
 Genshin Impact, Геншин Импакт, геншин, русская озвучка Genshin
 Honkai Star Rail, Стар Рейл, хонкай стар рейл, русская озвучка Star Rail
-Zenless Zone Zero, ZZZ, зет зет зет, зенлесс зон зиро, русская озвучка ZZZ
+Zenless Zone Zero, ZZZ, зет зет зет, ЗЗЗ, зенлесс зон зиро, русская озвучка ZZZ
 Arknights Endfield, Аркнайтс Эндфилд, эндфилд, русская озвучка Endfield
-Neverness to Everness, NTE, неверлесс, русская озвучка NTE
+Neverness to Everness, NTE, НТЕ, невернес ту эвернес, русская озвучка NTE
 Wuthering Waves, Вузеринг Вейвс, вува, русская озвучка Wuthering Waves
-Ananta, Silver Palace, Wang Yue, Varsapura
+Ananta, Ананта, Silver Palace, Сильвер пэлес, Wang Yue, Varsapura, Варсапура, Gacha Mod Voice, GachaModVoice
 
 русификатор, русская озвучка, нейросетевая озвучка, дубляж, AI voice mod, гача игры, gacha games
 
