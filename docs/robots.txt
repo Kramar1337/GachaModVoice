@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kramar1337.github.io/GachaModVoice/sitemap.xml

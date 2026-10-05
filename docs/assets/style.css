@@ -1,0 +1,16 @@
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font:17px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:#0d0f14;color:#e6e8ee}
+:root{--a:#8b9bff}a{color:var(--a)}.w{max-width:960px;margin:0 auto;padding:0 20px}
+header.t{border-bottom:1px solid #20242e}header.t .w{display:flex;gap:18px;align-items:center;flex-wrap:wrap;padding:14px 20px}
+header.t b{margin-right:auto}header.t a{color:#aab;text-decoration:none;font-size:15px}
+.hero{padding:56px 0 36px;background:radial-gradient(900px 300px at 20% -10%,color-mix(in srgb,var(--a) 28%,transparent),transparent)}
+h1{font-size:clamp(28px,5vw,44px);line-height:1.15;margin:.2em 0}h2{margin:2em 0 .5em;font-size:26px}
+.lead{font-size:19px;color:#c3c8d6;max-width:720px}.badge{display:inline-block;padding:3px 12px;border-radius:99px;background:color-mix(in srgb,var(--a) 20%,transparent);color:var(--a);font-size:14px;font-weight:600}
+.btns{display:flex;gap:10px;flex-wrap:wrap;margin:24px 0}.btn{padding:11px 20px;border-radius:10px;background:#1b1f2a;color:#fff;text-decoration:none;font-weight:600;border:1px solid #2a3040}
+.btn.p{background:var(--a);color:#0d0f14;border:0}.btn:hover{filter:brightness(1.15)}
+table{width:100%;border-collapse:collapse;background:#141822;border-radius:12px;overflow:hidden}td{padding:11px 16px;border-bottom:1px solid #20242e}td:first-child{color:#99a;width:34%}
+.demo{position:relative;aspect-ratio:16/9;background:#000 center/cover;border-radius:14px;overflow:hidden;border:1px solid #2a3040}.demo button{position:absolute;inset:0;width:100%;border:0;background:rgba(0,0,0,.35);color:#fff;font-size:56px;cursor:pointer}.demo iframe{width:100%;height:100%;border:0}
+ul.f li,ol li{margin:.4em 0}.card{background:#141822;border:1px solid #20242e;border-radius:14px;padding:18px 20px}
+.note{border-left:4px solid var(--a);padding:10px 16px;background:#141822;border-radius:0 10px 10px 0;margin:16px 0}
+details{background:#141822;border-radius:10px;padding:12px 16px;margin:8px 0}summary{cursor:pointer;font-weight:600}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}.grid a.card{text-decoration:none;color:inherit;border-top:3px solid var(--c)}.grid a.card:hover{background:#1a1f2b}
+footer{margin-top:60px;padding:30px 0;border-top:1px solid #20242e;color:#889;font-size:14px}
