@@ -13,4 +13,5 @@ ul.f li,ol li{margin:.4em 0}.card{background:#141822;border:1px solid #20242e;bo
 .note{border-left:4px solid var(--a);padding:10px 16px;background:#141822;border-radius:0 10px 10px 0;margin:16px 0}
 details{background:#141822;border-radius:10px;padding:12px 16px;margin:8px 0}summary{cursor:pointer;font-weight:600}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}.grid a.card{text-decoration:none;color:inherit;border-top:3px solid var(--c)}.grid a.card:hover{background:#1a1f2b}
+.tags{display:flex;flex-wrap:wrap;gap:8px}.tags span{padding:4px 12px;border-radius:99px;background:#1b1f2a;border:1px solid #2a3040;color:#aab;font-size:14px}
 footer{margin-top:60px;padding:30px 0;border-top:1px solid #20242e;color:#889;font-size:14px}
