@@ -264,11 +264,11 @@
 
 | Игра | Статус |
 |--------|--------|
-| Genshin Impact | ✅ [Готово](https://www.youtube.com/watch?v=2fbrGOjHxRE) |
-| Neverness to Everness | ✅ [Готово](https://www.youtube.com/watch?v=6370OZpr8lQ) |
-| Arknights: Endfield | ✅ [Готово](https://www.youtube.com/watch?v=i5fQupyBqkA) |
-| Honkai: Star Rail | ✅ [Готово](https://www.youtube.com/watch?v=wsbWhdWEYKg) |
-| Zenless Zone Zero | ✅ [Готово](https://www.youtube.com/watch?v=OBHy97YlnMo) |
+| Genshin Impact | ✅ [Готово](https://www.youtube.com/watch?v=a3cMkVybVsI) |
+| Neverness to Everness | ✅ [Готово](https://www.youtube.com/watch?v=4mmTHAw_rNg) |
+| Arknights: Endfield | ✅ [Готово](https://www.youtube.com/watch?v=ivPULyW8lEM) |
+| Honkai: Star Rail | ✅ [Готово](https://www.youtube.com/watch?v=wsbWhdWEYKg&t=1s) |
+| Zenless Zone Zero | ✅ [Готово](https://www.youtube.com/watch?v=OBHy97YlnMo&t=71s) |
 | Wuthering Waves | 🔜 Жду локализацию |
 | Ananta | 🔜 [15 января 2027](https://www.youtube.com/@Ananta_Game/videos) |
 | Silver Palace | 🔜 [Ждём 2027](https://www.youtube.com/@SilverPalace-Official/videos) |
