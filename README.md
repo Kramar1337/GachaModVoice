@@ -160,7 +160,7 @@
 | Zenless Zone Zero | ✅ [Готово](https://www.youtube.com/watch?v=OBHy97YlnMo) |
 | Wuthering Waves | 🔜 Жду локализацию |
 | Ananta | 🔜 [15 января 2027](https://www.youtube.com/@Ananta_Game/videos) |
-| Silver Palace | 🔜 [Ждём 2027](https://www.youtube.com/@SilverPalace-Official/videos) |
+| Silver Palace | 🔜 [31 января 2027](https://www.youtube.com/@SilverPalace-Official/videos) |
 | Wang Yue | 🔜 [Ждём 2027](https://www.youtube.com/results?search_query=Wang+Yue) |
 | Varsapura | 🔜 [Ждём 2027](https://www.youtube.com/@Varsapura) |
 
