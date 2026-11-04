@@ -54,7 +54,7 @@
 
 - [Telegram Канал](https://telegram.me/GachaModVoice)
 
-- [Wiki](https://github.com/Kramar1337/GachaModVoice/wiki)
+- [GitHubWiki](https://github.com/Kramar1337/GachaModVoice/wiki)
 
 </details>
 
@@ -142,7 +142,11 @@
 <summary><b>Настройки и решение проблем с играми</b></summary>
 
 
-- [Wiki](https://github.com/Kramar1337/GachaModVoice/wiki)
+- [Telegram Чат](https://telegram.me/GachaModVoiceChat)
+
+- [Telegram Канал](https://telegram.me/GachaModVoice)
+
+- [GitHubWiki](https://github.com/Kramar1337/GachaModVoice/wiki)
 
 
 </details>
