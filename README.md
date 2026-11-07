@@ -163,7 +163,7 @@
 | Honkai: Star Rail | ✅ [Готово](https://www.youtube.com/watch?v=wsbWhdWEYKg) |
 | Zenless Zone Zero | ✅ [Готово](https://www.youtube.com/watch?v=OBHy97YlnMo) |
 | Wuthering Waves | 🔜 Жду локализацию |
-| Silver Palace | 🔜 [14 декабря](https://www.youtube.com/@SilverPalace-Official/videos) |
+| Silver Palace | 🔜 [14 декабря 2026](https://www.youtube.com/@SilverPalace-Official/videos) |
 | Ananta | 🔜 [15 января 2027](https://www.youtube.com/@Ananta_Game/videos) |
 | Wang Yue | 🔜 [Ждём 2027](https://www.youtube.com/results?search_query=Wang+Yue) |
 | Varsapura | 🔜 [Ждём 2027](https://www.youtube.com/@Varsapura) |
