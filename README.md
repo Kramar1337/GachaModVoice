@@ -2,9 +2,7 @@
 
 Русификатор с нейросетевой озвучкой для Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, Arknights: Endfield и Neverness to Everness.
 
-Мод заменяет оригинальные звуковые файлы игры на русскую озвучку: переозвучены катсцены, диалоги и сюжетные сцены. Работает на ПК через собственный лаунчер.
-
-Озвучка создаётся с использованием технологий синтеза речи (TTS) и дополнительной обработки звука.
+Мод заменяет оригинальные звуковые файлы игры на русскую озвучку: переозвучены катсцены, диалоги и сюжетные сцены. Работает на ПК через собственный лаунчер, а для некоторых игр и на Android (для установки требуется компьютер)
 
 <a href="https://github.com/Kramar1337/GachaModVoice/releases">
   <img src="https://github.com/Kramar1337/GachaModVoice/blob/main/gmv.jpg" alt="Русская озвучка гача-игр — GachaModVoice" width="480" height="270">
@@ -48,6 +46,7 @@
 - Откроется окно Темиды, кликните в любом месте
 - Авторизуйтесь через бота в Telegram
 - Выберите игру и нажмите Загрузить -> Установить
+- Для Android продолжение инструкции на [GithubWiki](https://github.com/Kramar1337/GachaModVoice/wiki#android)
 
 ### 💬 Нужна помощь?
 
@@ -163,7 +162,7 @@
 | Arknights: Endfield | ✅ [Готово](https://www.youtube.com/watch?v=ivPULyW8lEM) |
 | Honkai: Star Rail | ✅ [Готово](https://www.youtube.com/watch?v=wsbWhdWEYKg) |
 | Zenless Zone Zero | ✅ [Готово](https://www.youtube.com/watch?v=OBHy97YlnMo) |
-| Wuthering Waves | 🔜 Жду локализацию |
+| Wuthering Waves | 🔜 Patch 4.0 |
 | Silver Palace | 🔜 [14 декабря 2026](https://www.youtube.com/@SilverPalace-Official/videos) |
 | Ananta | 🔜 [15 января 2027](https://www.youtube.com/@Ananta_Game/videos) |
 | Wang Yue | 🔜 [Ждём 2027](https://www.youtube.com/results?search_query=Wang+Yue) |
